@@ -10,8 +10,9 @@
 #### jpa的repo自动sql、
 #### loaddata原理
 #### mysql中insert的单引号和双引号的区别？插入json、
-#### 反射调用方法set、跨域问题
+#### 反射调用方法set
+#### 跨域问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU1NDA2MDQsMTk2MTIzODQwLDczMD
+eyJoaXN0b3J5IjpbLTEwNzE1MjQzMjksMTk2MTIzODQwLDczMD
 k5ODExNl19
 -->
