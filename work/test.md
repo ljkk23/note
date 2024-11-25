@@ -7,7 +7,7 @@
 #### 用本地的yml和远程的yml原理？、
 #### 数据sql执行的事务（hibernate删除和更新操作需要手动开启事务）、
 #### 时间utils、
-#### 平台化校验quan xia关系以及逻辑
+#### 平台化校验权限关系以及逻辑
 #### 类的静态变量、
 #### 重放攻击、
 #### 参数（Long... tradeLevel2Ids）、
@@ -19,6 +19,6 @@
 #### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
 #### 什么时候用object、什么时候用map
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTQxNDI4NSwzNjgyNDM2LC0xMDcxNT
+eyJoaXN0b3J5IjpbLTU1MDgzMDQ1NywzNjgyNDM2LC0xMDcxNT
 I0MzI5LDE5NjEyMzg0MCw3MzA5OTgxMTZdfQ==
 -->
