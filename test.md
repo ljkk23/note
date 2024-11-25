@@ -1,4 +1,5 @@
 #### json序列化什么时候有引号
+
 #### job-new的注解字段处理、参数校验、
 #### 用本地的yml和远程的yml原理？、
 #### 数据sql执行的事务（hibernate删除和更新操作需要手动开启事务）、
@@ -15,5 +16,5 @@
 #### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
 #### 什么时候用object、什么时候用map
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MjQzNl19
+eyJoaXN0b3J5IjpbMTQ3NDAyNzc5OCwzNjgyNDM2XX0=
 -->
