@@ -1,6 +1,8 @@
 #### json序列化什么时候会转义
 当json需要在字符串中时，就需要转义，比如json中有一个字段为json字符串，就需要转义
 
+    例如：
+    {"timestamp": 1725261606269,"params": "{\"session_id\":\"2024091211024700622e814cf01c546c5963d492ab35c0ffb\"}"
 #### job-new的注解字段处理、参数校验、
 #### 用本地的yml和远程的yml原理？、
 #### 数据sql执行的事务（hibernate删除和更新操作需要手动开启事务）、
@@ -17,6 +19,6 @@
 #### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
 #### 什么时候用object、什么时候用map
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODQ1NzExNSwzNjgyNDM2LC0xMDcxNT
+eyJoaXN0b3J5IjpbLTY2NjI4NzkwNiwzNjgyNDM2LC0xMDcxNT
 I0MzI5LDE5NjEyMzg0MCw3MzA5OTgxMTZdfQ==
 -->
