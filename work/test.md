@@ -12,8 +12,9 @@
 #### mysql中insert的单引号和双引号的区别？插入json、
 #### 反射调用方法set
 #### 跨域问题
-
+#### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
+#### 什么时候用object、什么时候用map
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQxMTA3MTUsLTEwNzE1MjQzMjksMT
-k2MTIzODQwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzY4MjQzNiwtMTA3MTUyNDMyOSwxOTYxMj
+M4NDAsNzMwOTk4MTE2XX0=
 -->
