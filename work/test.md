@@ -21,8 +21,9 @@
 #### 什么时候用object、什么时候用map
 ### 12
 #### 断言和参数校验的valied有什么区别
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MzczMzMwLC01NTA4MzA0NTcsMzY4Mj
-QzNiwtMTA3MTUyNDMyOSwxOTYxMjM4NDAsNzMwOTk4MTE2XX0=
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA4MTkyOTM0NCw4OTgzNzMzMzAsLTU1MD
+gzMDQ1NywzNjgyNDM2LC0xMDcxNTI0MzI5LDE5NjEyMzg0MCw3
+MzA5OTgxMTZdfQ==
 -->
