@@ -21,9 +21,9 @@
 #### 什么时候用object、什么时候用map
 ### 12
 #### 断言和参数校验的valied有什么区别
-
+#### 调用流式和非流式service的入参尽量抽象
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTkyOTM0NCw4OTgzNzMzMzAsLTU1MD
-gzMDQ1NywzNjgyNDM2LC0xMDcxNTI0MzI5LDE5NjEyMzg0MCw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5OTcwMjU3MjksODk4MzczMzMwLC01NT
+A4MzA0NTcsMzY4MjQzNiwtMTA3MTUyNDMyOSwxOTYxMjM4NDAs
+NzMwOTk4MTE2XX0=
 -->
