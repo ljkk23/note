@@ -18,6 +18,8 @@
 #### 跨域问题
 #### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
 #### 什么时候用object、什么时候用map
+#### duan y
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDgzMDQ1NywzNjgyNDM2XX0=
+eyJoaXN0b3J5IjpbLTE1OTQzOTU4MDAsLTU1MDgzMDQ1NywzNj
+gyNDM2XX0=
 -->
