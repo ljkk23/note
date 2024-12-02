@@ -1,3 +1,4 @@
+## 2024
 #### json序列化什么时候会转义
 当json需要在字符串中时，就需要转义，比如json中有一个字段为json字符串，就需要转义
 
@@ -18,9 +19,10 @@
 #### 跨域问题
 #### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
 #### 什么时候用object、什么时候用map
-
+### 12
+#### 断言和参数校验的valied有什么区别
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NDkzOTQxLC01NTA4MzA0NTcsMzY4Mj
+eyJoaXN0b3J5IjpbODk4MzczMzMwLC01NTA4MzA0NTcsMzY4Mj
 QzNiwtMTA3MTUyNDMyOSwxOTYxMjM4NDAsNzMwOTk4MTE2XX0=
 
 -->
