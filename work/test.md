@@ -19,12 +19,12 @@
 #### 跨域问题
 #### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
 #### 什么时候用object、什么时候用map
-w
+完全透传的时候就用map，复杂对象？
 ### 12
 #### 断言和参数校验的valied有什么区别
 #### 调用流式和非流式service的入参尽量抽象
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDM2ODk4MiwtMTk5NzAyNTcyOSw4OT
-gzNzMzMzAsLTU1MDgzMDQ1NywzNjgyNDM2LC0xMDcxNTI0MzI5
-LDE5NjEyMzg0MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjUzOTAyNTQsLTE5OTcwMjU3MjksOD
+k4MzczMzMwLC01NTA4MzA0NTcsMzY4MjQzNiwtMTA3MTUyNDMy
+OSwxOTYxMjM4NDAsNzMwOTk4MTE2XX0=
 -->
