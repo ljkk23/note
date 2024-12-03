@@ -19,10 +19,11 @@
 #### 跨域问题
 #### 为什么有requestid和componentRequestId，为什么不能整个链路用一个traceid
 #### 什么时候用object、什么时候用map
+wan q
 ### 12
 #### 断言和参数校验的valied有什么区别
 #### 调用流式和非流式service的入参尽量抽象
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTcwMjU3MjksODk4MzczMzMwLC01NT
-A4MzA0NTcsMzY4MjQzNl19
+eyJoaXN0b3J5IjpbLTYyMjU3MTkyOCwtMTk5NzAyNTcyOSw4OT
+gzNzMzMzAsLTU1MDgzMDQ1NywzNjgyNDM2XX0=
 -->
