@@ -23,7 +23,8 @@
 ### 12
 #### 断言和参数校验的valied有什么区别
 #### 调用流式和非流式service的入参尽量抽象
+#### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjUzOTAyNTQsLTE5OTcwMjU3MjksOD
-k4MzczMzMwLC01NTA4MzA0NTcsMzY4MjQzNl19
+eyJoaXN0b3J5IjpbMTU3ODA3MjMwOCwtMTk5NzAyNTcyOSw4OT
+gzNzMzMzAsLTU1MDgzMDQ1NywzNjgyNDM2XX0=
 -->
