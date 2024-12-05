@@ -24,7 +24,8 @@
 #### 断言和参数校验的valied有什么区别
 #### 调用流式和非流式service的入参尽量抽象
 #### 都用一个复杂map，key不能重复
+#### f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxOTc5MzcxLC0xOTk3MDI1NzI5LDg5OD
-M3MzMzMCwtNTUwODMwNDU3LDM2ODI0MzZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjA0MTgzNDksLTE5OTcwMjU3MjksOD
+k4MzczMzMwLC01NTA4MzA0NTcsMzY4MjQzNl19
 -->
