@@ -25,7 +25,9 @@
 #### 调用流式和非流式service的入参尽量抽象
 #### 都用一个复杂map，key不能重复
 #### for each 报空指针
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg4Nzc0OSwtMTk5NzAyNTcyOSw4OT
-gzNzMzMzAsLTU1MDgzMDQ1NywzNjgyNDM2XX0=
+eyJoaXN0b3J5IjpbLTIxMDAwNDU0NjMsLTIwOTg4Nzc0OSwtMT
+k5NzAyNTcyOSw4OTgzNzMzMzAsLTU1MDgzMDQ1NywzNjgyNDM2
+XX0=
 -->
