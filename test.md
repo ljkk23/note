@@ -29,9 +29,10 @@
 #### BodyEntryCache 使用
 #### AigcFunctionType
 #### wrapper为什么ContentCachingRequestWrapper?多次读取
+### awk使用
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjE3NDYwMiwtMjA5ODg3NzQ5LC0xOT
-k3MDI1NzI5LDg5ODM3MzMzMCwtNTUwODMwNDU3LDM2ODI0MzZd
-fQ==
+eyJoaXN0b3J5IjpbMjE0NDIyOTExMSwxMjY2MTc0NjAyLC0yMD
+k4ODc3NDksLTE5OTcwMjU3MjksODk4MzczMzMwLC01NTA4MzA0
+NTcsMzY4MjQzNl19
 -->
