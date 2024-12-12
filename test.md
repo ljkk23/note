@@ -30,10 +30,12 @@
 #### AigcFunctionType
 #### wrapper为什么ContentCachingRequestWrapper?多次读取
 #### awk使用
-@@
+### 12.12
+#### 包之间的关系？
+为什么有些必须用builder
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTE3NzE2MCwxMjY2MTc0NjAyLC0yMD
-k4ODc3NDksLTE5OTcwMjU3MjksODk4MzczMzMwLC01NTA4MzA0
-NTcsMzY4MjQzNl19
+eyJoaXN0b3J5IjpbNDY1NTk1ODUsMTI2NjE3NDYwMiwtMjA5OD
+g3NzQ5LC0xOTk3MDI1NzI5LDg5ODM3MzMzMCwtNTUwODMwNDU3
+LDM2ODI0MzZdfQ==
 -->
