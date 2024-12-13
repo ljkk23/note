@@ -33,11 +33,12 @@
 ### 12.12
 #### 包之间的关系？
 为什么有些必须用builder
-
+### 12.13
+#### 	为什么有medium、conf等模块
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzI5MzM2MSw0NjU1OTU4NSwxMjY2MT
-c0NjAyLC0yMDk4ODc3NDksLTE5OTcwMjU3MjksODk4MzczMzMw
-LC01NTA4MzA0NTcsMzY4MjQzNiwtMTA3MTUyNDMyOSwxOTYxMj
-M4NDAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTIyNzEyMjYxLDQ2NTU5NTg1LDEyNjYxNz
+Q2MDIsLTIwOTg4Nzc0OSwtMTk5NzAyNTcyOSw4OTgzNzMzMzAs
+LTU1MDgzMDQ1NywzNjgyNDM2LC0xMDcxNTI0MzI5LDE5NjEyMz
+g0MCw3MzA5OTgxMTZdfQ==
 -->
