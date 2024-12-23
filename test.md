@@ -35,9 +35,13 @@
 为什么有些必须用builder
 ### 12.13
 #### 	为什么有medium、conf等模块
+### 12.14 
+#### 微服务列表必须为可变对象
+#### 212的测试数据（平台和端上打通的测试）
+#### 以及88的数据
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNzEyMjYxLDQ2NTU5NTg1LDEyNjYxNz
-Q2MDIsLTIwOTg4Nzc0OSwtMTk5NzAyNTcyOSw4OTgzNzMzMzAs
-LTU1MDgzMDQ1NywzNjgyNDM2XX0=
+eyJoaXN0b3J5IjpbLTEwMjA0NzI5MDAsNTIyNzEyMjYxLDQ2NT
+U5NTg1LDEyNjYxNzQ2MDIsLTIwOTg4Nzc0OSwtMTk5NzAyNTcy
+OSw4OTgzNzMzMzAsLTU1MDgzMDQ1NywzNjgyNDM2XX0=
 -->
